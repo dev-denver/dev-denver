@@ -1,11 +1,5 @@
-## Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-denver&count_bg=%23417DC2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# 👋 Hi there
-
-> **비즈니스와 도메인을 이해하고, AI를 활용해 더 나은 제품을 만드는 개발자입니다.**
-> **도메인에 대한 깊은 이해와 AI를 활용한 효율적인 개발을 통해 더 나은 제품을 만드는 개발자가 되고자 합니다.**
-
 ## 👨‍💻 About Me
+> **비즈니스와 도메인을 이해하고, AI를 활용해 더 나은 제품을 만드는 개발자입니다.**
 
 좋은 설계와 구현은 기술만으로 만들어지지 않는다고 생각합니다.
 요구사항의 배경과 비즈니스 맥락을 이해하고, 다양한 예외 상황과 정책을 함께 고려하여 **비즈니스 의도를 정확하게 구현하는 것**을 가장 중요하게 생각합니다.
@@ -38,13 +32,9 @@ AI를 활용하여
 
 AI는 개발자를 대체하는 도구가 아니라 **생산성을 높이는 협업 파트너**라고 생각합니다.
 
+> **도메인에 대한 깊은 이해와 AI를 활용한 효율적인 개발을 통해 더 나은 제품을 만드는 개발자가 되고자 합니다.**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![JPA](https://img.shields.io/badge/Hibernate(JPA)-59666C?style=for-the-badge&logo=Hibernate&logoColor=#4479A1)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denver&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-denver&hide=stars&show_icons=true&theme=github_dark)
