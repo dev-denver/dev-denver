@@ -51,8 +51,8 @@ AI를 단순한 코드 생성 도구가 아닌 **개발 생산성을 높이는 �
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denver&layout=compact&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-denver&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-denver&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-denver&show_icons=true&theme=github_dark"/>
   </div>
 
 ---
